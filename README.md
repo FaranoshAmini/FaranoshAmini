@@ -4,7 +4,7 @@
 <!--
 **FaranoshAmini/FaranoshAmini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+Full-stack Software Developer in the Making
 
 - 🔭 I’m currently working on JavaScript projects.
 - 🌱 I’m currently student at Microverse.
