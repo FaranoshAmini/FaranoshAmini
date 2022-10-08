@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Faranosh Amini
+![image](https://www.canva.com/design/DAFOYZWKthE/UecL7AOpoEGY075zG7P6QA/view?utm_content=DAFOYZWKthE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <!--
 **FaranoshAmini/FaranoshAmini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
