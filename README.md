@@ -5,13 +5,14 @@
 -->
 <b>Full-stack Software Developer in the Making</b>
 
+
 - 🌱 I’m currently a Full-time Student at @microverse.
 - 🔭 I’m currently working on JavaScript projects.
 - 👯 I’m looking to collaborate on projects.
 - 💻 All my projects are available in [here](https://github.com/FaranoshAmini).
 - 📫 How to reach me: faranosh.amini4@gmail.com
 - 😄 Pronouns: She/Her
-- 
+
 
 ## 🌐Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faranosh-amini-9b925b23a/)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Faranosh.amini/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itz__faranosh/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Faranosh_Amini) 
