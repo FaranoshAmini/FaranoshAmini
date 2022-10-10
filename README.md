@@ -3,6 +3,9 @@
 <!--
 **FaranoshAmini/FaranoshAmini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+ ![michelle!](https://user-images.githubusercontent.com/104029494/194771236-597f9770-17d6-4ae5-83bf-f40cb4b6712c.gif)
+ 
+ 
 <b>Full-stack Software Developer in the Making</b>
 
 
